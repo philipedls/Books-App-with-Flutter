@@ -1,16 +1,18 @@
 # books_flutterbloc_app
 
-A new Flutter project.
+Aplicativo Mobile de Catálogo de livros ultilizando Flutter e o Google Books Api.
 
-## Getting Started
+## Contribuiçao
 
-This project is a starting point for a Flutter application.
+### Conversão de mensagem ao fazer commit
 
-A few resources to get you started if this is your first Flutter project:
+Exemplos em [conventional commits specification](https://www.conventionalcommits.org/en):
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* `fix`: bug fixes, e.g. fix: correct minor typos in code.
+* `feat`: new features, e.g. allow provided config object to extend other configs.
+* `refactor`: code refactor, e.g. new folder structure for components.
+* `test`: adding or updating tests, eg unit, snapshot testing.
+* `chore`: tooling changes, e.g. change circleci config.
+* `BREAKING CHANGE`: for changes that break existing usage, e.g. change API of a component.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
